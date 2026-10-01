@@ -2,3 +2,4 @@
 #to spread the game we temporarily allow all bots
 User-agent: *
 Allow: /
+Sitemap: https://xpleaderTEST.github.io/sitemap.xml
