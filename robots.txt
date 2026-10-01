@@ -1,0 +1,4 @@
+#just pls dont kil the website
+#to spread the game we temporarily allow all bots
+User-agent: *
+Allow: /
